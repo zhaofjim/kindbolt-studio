@@ -1,26 +1,25 @@
-# Kindbolt Studio
+# Kindbolt Studio 隐私政策
 
-Static studio website and individual game privacy policies. No build tools or third-party scripts are required.
+本仓库仅用于发布各应用独立的中英文隐私政策。
 
-## GitHub Pages
+| 应用 | English | 简体中文 |
+| --- | --- | --- |
+| Wingway | [Privacy Policy](https://zhaofjim.github.io/kindbolt-studio/privacy/wingway/) | [隐私政策](https://zhaofjim.github.io/kindbolt-studio/privacy/wingway/zh.html) |
 
-In Settings → Pages, select **Deploy from a branch**, branch **main**, folder **/(root)**, then Save.
+## 文件与发布
 
-Expected homepage after deployment: https://zhaofjim.github.io/kindbolt-studio/
+- `index.html`、`zh.html`：中英文政策目录，均提供两种语言的入口。
+- `privacy/<应用代号>/index.html`：应用英文隐私政策。
+- `privacy/<应用代号>/zh.html`：应用中文隐私政策。
+- `assets/style.css`：共用样式。
+- `.nojekyll`：静态站点配置，保留。
 
-Wingway policy: https://zhaofjim.github.io/kindbolt-studio/privacy/wingway/
+GitHub Pages 发布来源为 `main` 分支的 `/(root)`。推送后在 Actions 确认部署成功，再检查公开网址。
 
-Chinese policy: https://zhaofjim.github.io/kindbolt-studio/privacy/wingway/zh.html
+## 维护与新增应用
 
-These are expected URLs; a successful deployment must be verified before using them in a store listing.
+修改现有应用时，同步维护中英文政策及更新日期，保留原有网址。
 
-## Maintain
+新增应用时，在 `privacy/` 下创建独立目录和两种语言的页面，然后在两个目录首页添加链接。可复用现有页面排版，正文须按新应用的真实数据行为编写。商店的数据安全声明需单独核对。
 
-- Edit each game's `privacy/<game>/index.html` (English) and `zh.html` (Chinese) independently.
-- Keep existing published paths stable. Update policy dates when data practices change.
-- Before publishing another game's policy, confirm its data collection, SDKs, sharing, retention, deletion, and support contact. Copying Wingway's statements is not a substitute for checking that game.
-- Add a homepage link only when the game's real policy is ready. Bridgebox and Luma Relay were architecture examples, so no policy claims are published for them.
-- Store disclosures must be reviewed separately after changes to ads, analytics, or other services.
-- Wingway policy text is reproduced from the Android 1.0.0 release materials dated October 20, 2026.
-
-Public support: 1297273953@qq.com
+隐私联系邮箱：kindboltstudio@163.com
