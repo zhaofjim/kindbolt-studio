@@ -5,6 +5,7 @@
 | 应用 | English | 简体中文 |
 | --- | --- | --- |
 | Wingway | [Privacy Policy](https://zhaofjim.github.io/kindbolt-studio/privacy/wingway/) | [隐私政策](https://zhaofjim.github.io/kindbolt-studio/privacy/wingway/zh.html) |
+| Edge Garden / 棱间花园 | [Privacy Policy](https://zhaofjim.github.io/kindbolt-studio/privacy/edge-garden/) | [隐私政策](https://zhaofjim.github.io/kindbolt-studio/privacy/edge-garden/zh.html) |
 
 ## 文件与发布
 
