@@ -7,6 +7,8 @@
 | Wingway | [Privacy Policy](https://zhaofjim.github.io/kindbolt-studio/privacy/wingway/) | [隐私政策](https://zhaofjim.github.io/kindbolt-studio/privacy/wingway/zh.html) |
 | Edge Garden / 棱间花园 | [Privacy Policy](https://zhaofjim.github.io/kindbolt-studio/privacy/edge-garden/) | [隐私政策](https://zhaofjim.github.io/kindbolt-studio/privacy/edge-garden/zh.html) |
 
+| Poly Rings | [Privacy Policy](https://zhaofjim.github.io/kindbolt-studio/privacy/poly-rings/) | [隐私政策](https://zhaofjim.github.io/kindbolt-studio/privacy/poly-rings/zh.html) |
+
 ## 文件与发布
 
 - `index.html`、`zh.html`：中英文政策目录，均提供两种语言的入口。
